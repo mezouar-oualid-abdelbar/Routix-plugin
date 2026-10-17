@@ -1,6 +1,7 @@
 {
-  "name": "hello-world",
+  "id": "hello-world",
+  "name": "Hello World",
   "version": "1.0.0",
-  "description": "A minimal test plugin for routix",
+  "description": "A minimal test plugin for routix that demonstrates activity creation",
   "main": "index.js"
 }
